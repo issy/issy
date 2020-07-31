@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="pessimist101's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pessimist101&show_icons=true&hide_border=true&icon_color=F92AAD&title_color=F92AAD"/>
+<img align="center" alt="pessimist101's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pessimist101&show_icons=true&hide_border=true&icon_color=F92AAD&title_color=F92AAD"/>
 
 [Blog](https://issy.dev/)
