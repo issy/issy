@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on REST APIs
 - 🌱 I’m currently learning Cloudflare Workers
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
-- 📫 How to reach me: 
-  - You can reach me on Discord at issy#4200
+<!-- - 📫 How to reach me: 
+  - You can reach me on Discord at issy#4200 -->
 - ⚡ Fun fact: I love to play many instruments, including guitar, drums and violin!
 
 [Blog](https://issy.dev/)
