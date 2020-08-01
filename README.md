@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: 
   - You can reach me on Discord at issy#4200 -->
 
-[Blog](https://issy.dev/)
+[Check out my blog!](https://issy.dev/)
 
 ---
 
