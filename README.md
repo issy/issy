@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on REST APIs
-- 🌱 I’m currently learning Cloudflare Workers
+- 🔭 I’m currently working on Discord bots
+- 🌱 I’m currently learning TypeScript
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
 - ⚡ Fun fact: I love to play many instruments, including guitar, drums and violin!
 
