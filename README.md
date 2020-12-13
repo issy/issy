@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Discord bots
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and React
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
 - ⚡ Fun fact: I'm a musical gal
 
