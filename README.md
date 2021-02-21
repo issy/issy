@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Discord bots
-- 🌱 I’m currently learning TypeScript and React
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
 - ⚡ Fun fact: I'm a musical gal
 
-[Check out my blog!](https://issy.dev/)
+<!-- [Check out my blog!](https://issy.dev/) -->
 
 ---
 
