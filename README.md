@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Discord bots
 - 🌱 I’m currently learning about websockets
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
-- ⚡ Fun fact: I'm a musical gal
 
 <!-- [Check out my blog!](https://issy.dev/) -->
 
