@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Discord bots
-- 🌱 I’m currently learning about websockets
+- 🌱 I’m currently learning Go
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
 
 <!-- [Check out my blog!](https://issy.dev/) -->
