@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CMS platforms
+- 🔭 I’m currently working on banking
 - 🌱 I’m currently learning OpenSCAD
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
 
