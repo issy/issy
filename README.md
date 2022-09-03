@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on banking
-- 🌱 I’m currently learning OpenSCAD
+- 🔭 I’m currently working on React apps
+- 🌱 I’m currently learning Go
 - 😄 Pronouns: [She/Her](http://pronoun.is/she)
 
 ---
