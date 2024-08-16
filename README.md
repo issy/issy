@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React apps
-- 🌱 I’m currently learning Rust
-- 😄 Pronouns: [She/Her](http://pronoun.is/she)
+- 🔭 I’m currently working on booking/scheduling platforms in my spare time
+- 🌱 I’m currently learning more about improving developer experience 
